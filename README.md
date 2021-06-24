@@ -7,4 +7,8 @@ NOTE: Don’t debug, just run it . You may get syntax errors after running the c
 
 Recommended IDE: Pycharm , VsCode(Run in terminal)
 
-
+## Steps:
+1. ->> Install the requirements first.
+2. ->> Open the code.py in your IDE & Run.
+3. ->> Copy the full link of the vedio from the YouTube and then paste it when asked.
+4. ->> Once the process is finished the audio file will be ready .
